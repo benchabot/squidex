@@ -117,7 +117,7 @@
     "tslint-webpack-plugin": "2.1.0",
     "typemoq": "2.1.0",
     "typescript": "3.8.3",
-    "underscore": "1.9.2",
+    "underscore": "1.12.1",
     "webpack": "4.42.0",
     "webpack-bundle-analyzer": "3.6.1",
     "webpack-cli": "3.3.11",
